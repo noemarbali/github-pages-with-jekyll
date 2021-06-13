@@ -1,8 +1,8 @@
-title: It's A Life Blof
+title: It's A Life Blog
 author: NuelBali
-email: nueldig@domain.com
+email: nueldig@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ace of base song with title: It's a beautiful life
+  It's a beautiful life
 
 # social links
 twitter_username: dalansae # DO NOT include the @ character, or else the build will fail!
